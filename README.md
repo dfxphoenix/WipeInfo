@@ -3,7 +3,7 @@
 
 This plugin shows you the time until Rust wipes the servers, as well as the date when the last wipe was given by Rust.
 ## Commands
-* ``/wipe`` - Get wipe date.
+* ``wipe`` - Get wipe date.
 ## Configuration
 This plugin supports announcing the wipe data on connect or on custom timer.
 
