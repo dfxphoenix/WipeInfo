@@ -2,8 +2,10 @@
 **Wipe Info** is a plugin who shows in chat time until wipe date.
 
 This plugin shows you the time until Rust wipes the servers, as well as the date when the last wipe was given by Rust.
+
 ## Commands
 * ``wipe`` - Get wipe date.
+
 ## Configuration
 This plugin supports announcing the wipe data on connect or on custom timer.
 
