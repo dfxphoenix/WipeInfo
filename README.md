@@ -10,6 +10,7 @@ This plugin shows you the time until Rust wipes the servers, as well as the date
 This plugin supports announcing the wipe data on connect or on custom timer.
 
 Announce timer is in hours.
+
 ```json
 {
   "Date format": "MM/dd/yyyy",
